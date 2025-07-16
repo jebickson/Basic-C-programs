@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/Happyy/Desktop/c program/Basic-C-programs",
       "program": "c:/Users/Happyy/Desktop/c program/Basic-C-programs/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/Happyy/Desktop/c program/Basic-C-programs-1",
+      "program": "c:/Users/Happyy/Desktop/c program/Basic-C-programs-1/build/Debug/outDebug",
+>>>>>>> d0e3897b56648f3c0e29a345c9b44d294ed8ee0d
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
